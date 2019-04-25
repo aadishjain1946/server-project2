@@ -1,0 +1,20 @@
+#changepass{
+    display: none;
+}
+#changepass{
+    position: relative;
+}
+#reglod{
+    display: inline-block;
+}
+.reg-lod{
+    width: 400px;
+    height: 270px;
+    position: absolute;
+    z-index: 10;
+    top: -50%;
+    padding-top: 25%;
+    left: -50px;
+    text-align: center;
+    background-color: rgba(0, 0, 0,0.2);
+}
